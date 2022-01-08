@@ -25,7 +25,7 @@
 ### Links
 
 - Solution URL: [Github](https://github.com/ahmedmohamedeid98/responsive-navbar-html.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://ahmedmohamedeid98.github.io/responsive-navbar-html/](https://ahmedmohamedeid98.github.io/responsive-navbar-html/)
 
 ## My process
 
@@ -58,12 +58,6 @@ set background image
   height: clac(100vh - 80px); 
   /*The CSS calc function is used to perform calculations when specifying values of CSS properties*/
 
-}
-```
-
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
 }
 ```
 
