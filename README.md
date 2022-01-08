@@ -34,7 +34,6 @@
 - HTML5
 - CSS
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
